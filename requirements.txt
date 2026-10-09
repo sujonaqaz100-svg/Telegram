@@ -1,0 +1,8 @@
+python-telegram-bot[job-queue]==21.6
+qrcode[pil]==8.0
+aiohttp==3.10.10
+pillow==11.0.0
+flask==3.1.0
+psycopg2-binary==2.9.9
+requests==2.32.3
+gunicorn==23.0.0
